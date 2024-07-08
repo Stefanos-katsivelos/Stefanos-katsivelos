@@ -63,7 +63,6 @@ src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanos-katsivelos&show_icons=true&locale=en&layout=compact" alt="stefanos-katsivelos" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=stefanos-katsivelos&show_icons=true&locale=en" alt="stefanos-katsivelos" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanos-katsivelos&" alt="stefanos-katsivelos" /></p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=stefanos-katsivelos&show_icons=true&locale=en" alt="stefanos-katsivelos" /></p>
