@@ -13,6 +13,8 @@ src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-
 
 - 💬 Ask me about **My Projects**
 
+- ⚡ Fun fact **I am right-handed but left-footed.**
+  
 - 📫 How to reach me **stef.katsivelos@gmail.com**
 
 </br>
