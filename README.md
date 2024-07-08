@@ -3,8 +3,6 @@
 <h2 align="center">A passionate Full stack developer from Greece</h2>
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a> </p>
-</br>
 
 <img align="right" alt="coding" width= "400"
 src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
@@ -58,9 +56,10 @@ src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
  </div>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanos-katsivelos&label=Profile%20views&color=0e75b6&style=flat" alt="stefanos-katsivelos" /> </p>
-  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanos-katsivelos&label=Profile%20views&color=0e75b6&style=flat" alt="stefanos-katsivelos" /> </p>
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanos-katsivelos&show_icons=true&locale=en&layout=compact" alt="stefanos-katsivelos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanos-katsivelos&" alt="stefanos-katsivelos" /></p>
