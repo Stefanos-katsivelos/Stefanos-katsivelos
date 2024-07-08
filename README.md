@@ -65,7 +65,7 @@ src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-
 
  </br>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=stefanos-katsivelos&label=Profile%20views&color=0e75b6&style=flat" alt="stefanos-katsivelos" /></p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a></p>
  
  
 
