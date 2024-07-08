@@ -62,13 +62,13 @@ src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-
  
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanos-katsivelos&show_icons=true&locale=en&layout=compact" alt="stefanos-katsivelos" /></p>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a> </p>
+
 
 <div>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanos-katsivelos&label=Profile%20views&color=0e75b6&style=flat" alt="stefanos-katsivelos" /> </p>
- 
  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanos-katsivelos&" alt="stefanos-katsivelos" /></p>
-
 </div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a> </p>
 
 
