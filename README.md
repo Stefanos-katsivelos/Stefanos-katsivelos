@@ -17,9 +17,14 @@ src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-
 
 - 📫 How to reach me **stef.katsivelos@gmail.com**
 
+</br>
+
 <h3 align="left">Connect with me:</h3>
+</br>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/stefanos-katsivelos-646b37255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefanos katsivelos" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/stefanos-katsivelos-646b37255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefanos katsivelos" 
+ height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
