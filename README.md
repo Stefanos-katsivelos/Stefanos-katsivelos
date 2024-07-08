@@ -20,7 +20,7 @@ src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -42,7 +42,7 @@ src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-
   </p>
   </br>
   
-</p>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanos-katsivelos&show_icons=true&locale=en&layout=compact" alt="stefanos-katsivelos" /></p>
 
