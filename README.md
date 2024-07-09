@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Stefanos</h1>
 <h2 align="center">A passionate Full stack developer from Greece</h2>
 </br>
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a></p>
 
 
 <img align="right" alt="coding" width= "400"
@@ -66,7 +67,7 @@ src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-
 
  </br>
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a></p>
+
  
  
 
