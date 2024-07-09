@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/Stefanos-katsivelos/Stefanos-katsivelos/blob/main/github-header-image%20(1).png)
 
-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a></p>
+ <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a></p>
 ---   
 
 
@@ -40,7 +40,7 @@
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
  </p>
 
- <p align="right"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanos-katsivelos&show_icons=true&locale=en&layout=compact" alt="stefanos-katsivelos" /></p>
+ 
 
   <h3 align="left">📡 Backend</h3>
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a> 
@@ -52,6 +52,7 @@
   <h3 align="left">🗄️ Databases</h3>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a> 
+   <p align="right"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanos-katsivelos&show_icons=true&locale=en&layout=compact" alt="stefanos-katsivelos" /></p>
 
  ---
 
