@@ -17,7 +17,7 @@
 ---
 
 
-<p align="center"><img alt="coding" width= "400" src ="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/></p>
+<p align="center"><img alt="coding" width= "600" src ="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/></p>
 
 <h2 align="left">🔧 Frontend Development </h2>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
