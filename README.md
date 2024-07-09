@@ -2,9 +2,8 @@
 
 ![logo](https://github.com/Stefanos-katsivelos/Stefanos-katsivelos/blob/main/github-header-image%20(1).png)
 
-
- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a></p>
----    
+- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a></p>
+---   
 
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanos-katsivelos&label=Profile%20views&color=0e75b6&style=flat" alt="stefanos-katsivelos" /></p>
@@ -41,7 +40,7 @@
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
  </p>
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanos-katsivelos&show_icons=true&locale=en&layout=compact" alt="stefanos-katsivelos" />
+ <p align="right"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanos-katsivelos&show_icons=true&locale=en&layout=compact" alt="stefanos-katsivelos" /></p>
 
   <h3 align="left">📡 Backend</h3>
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a> 
