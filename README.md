@@ -16,7 +16,7 @@
 - 📫 How to reach me **stef.katsivelos@gmail.com**
 
 </br>
-
+---
 <div>
  <h3 align="left">🌐 Languages & Tools 🛠</h3>
  <p>
