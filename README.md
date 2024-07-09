@@ -36,11 +36,11 @@
    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 
  
-<h2 align="left">🗄️ Databases 🌐</h2>
+<h2 align="left">🗄️ Databases </h2>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a> 
 
-<h2 align="left">🛠 Additional Tools 💻</h2>
+<h2 align="left">🛠 Additional Tools </h2>
  <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="Intelli" width="40" height="40"/></a>
  <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Intelli" width="40" height="40"/></a>
  <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/></a>
@@ -55,8 +55,8 @@
  ---
 
 
- <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=stefanos-katsivelos&show_icons=true&locale=en" alt="stefanos-katsivelos" /></p>
- <p align="left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=stefanos-katsivelos&" alt="stefanos-katsivelos" /></p>
+ <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=stefanos-katsivelos&show_icons=true&locale=en" alt="stefanos-katsivelos" /></p>
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stefanos-katsivelos&" alt="stefanos-katsivelos" /></p>
 
  <h3 align="left">👨‍💻 Connect with me:</h3>
 <p align="left">
