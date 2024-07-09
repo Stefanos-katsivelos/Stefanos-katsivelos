@@ -1,4 +1,4 @@
-<h1 align="center">Hi!<img src="https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif" width="40px"> I'm Stefanos</h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif" width="40px">Hi, I'm Stefanos</h1>
 
 ![logo](https://github.com/Stefanos-katsivelos/Stefanos-katsivelos/blob/main/github-header-image%20(1).png)
 
