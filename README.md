@@ -18,7 +18,7 @@
 ---
 
 
-<div>
+
  <h3 align="left">🌐 Languages & Tools 🛠</h3>
  <p>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
@@ -28,9 +28,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
  </p>
-</div>
 
-<div>
+
+
  <h3 align="left">💻 Frontend & Frameworks 🔧</h3>
   <p align="left">
    <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/></a>
@@ -39,20 +39,20 @@
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40"/></a>
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
  </p>
-</div>
+
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanos-katsivelos&show_icons=true&locale=en&layout=compact" alt="stefanos-katsivelos" />
- <div>
+
   <h3 align="left">📡 Backend</h3>
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></a>
- </div>
+
  
- <div>
+ 
   <h3 align="left">🗄️ Databases</h3>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a> 
- </div>
+
  ---
 
  <h3 align="left">👨‍💻 Connect with me:</h3>
@@ -62,10 +62,10 @@
  <a href="https://discord.gg/#4056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4056" height="40" width="40" /></a>
 </p>
 
-<div>
+
  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=stefanos-katsivelos&show_icons=true&locale=en" alt="stefanos-katsivelos" /></p>
  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=stefanos-katsivelos&" alt="stefanos-katsivelos" /></p>
-</div>
+
 
 
 
