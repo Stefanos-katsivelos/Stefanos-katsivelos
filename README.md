@@ -56,9 +56,13 @@
 
  ---
 
+<h2>Stats</h2>
+ <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=stefanos-katsivelos&show_icons=true&locale=en" alt="stefanos-katsivelos" /></p>
 
- <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=stefanos-katsivelos&show_icons=true&locale=en" alt="stefanos-katsivelos" /></p>
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stefanos-katsivelos&" alt="stefanos-katsivelos" /></p>
+ ---
+ 
+<h2>Stats</h2>
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stefanos-katsivelos&" alt="stefanos-katsivelos" /></p>
 
  <h3 align="left">👨‍💻 Connect with me:</h3>
 <p align="left">
