@@ -14,9 +14,9 @@
 - ⚡ Fun fact **I am right-handed but left-footed.**
   
 - 📫 How to reach me **stef.katsivelos@gmail.com**
-
+---
 </br>
-`---`
+
 <div>
  <h3 align="left">🌐 Languages & Tools 🛠</h3>
  <p>
@@ -61,10 +61,6 @@
 </p>
 
  </br>
-
-
- 
- 
 
 <div>
  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=stefanos-katsivelos&show_icons=true&locale=en" alt="stefanos-katsivelos" /></p>
