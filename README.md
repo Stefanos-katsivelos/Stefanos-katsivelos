@@ -1,9 +1,10 @@
 ![logo](https://github.com/Stefanos-katsivelos/Stefanos-katsivelos/blob/main/github-header-image%20(1).png)
 
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a></p>
----   
+   
 
 <h1 align="left"><img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40px">Hi, I'm Stefanos 👨‍💻‍💼</h1>
+
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanos-katsivelos&label=Profile%20views&color=0e75b6&style=flat" alt="stefanos-katsivelos" /></p>
 
 - 🌱 I’m currently learning **Everything**
