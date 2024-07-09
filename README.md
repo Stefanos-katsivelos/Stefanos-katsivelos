@@ -18,7 +18,7 @@
 
 
 <img align="right" alt="coding" width= "400" src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
-<h3 align="left">🌐 Languages & Tools 🛠</h3>
+<h3 align="left">🌐 Languages </h3>
  <p>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -47,6 +47,11 @@
  <h3 align="left">🗄️ Databases</h3>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a> 
+
+<h2 align="left">🛠 Additional Tools
+ <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /></a>
+          
+</h2>
    
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanos-katsivelos&show_icons=true&locale=en&layout=compact" alt="stefanos-katsivelos" /></p>
 
