@@ -3,6 +3,7 @@
 <h2 align="center">A passionate Full stack developer from Greece</h2>
 </br>
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a></p>
+---  
  <img align="right" alt="coding" width= "300" height="250" src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanos-katsivelos&label=Profile%20views&color=0e75b6&style=flat" alt="stefanos-katsivelos" /></p>
@@ -15,7 +16,7 @@
   
 - 📫 How to reach me **stef.katsivelos@gmail.com**
 ---
-</br>
+
 
 <div>
  <h3 align="left">🌐 Languages & Tools 🛠</h3>
@@ -28,7 +29,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
  </p>
 </div>
-  
+
 <div>
  <h3 align="left">💻 Frontend & Frameworks 🔧</h3>
   <p align="left">
