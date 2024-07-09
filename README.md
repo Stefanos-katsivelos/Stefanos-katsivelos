@@ -1,4 +1,4 @@
-<h1 align="center"><img src="(https://media1.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif?cid=6c09b952px5qwmz9pe9jl8w19caek28w9fa6mzrmc7e3fjy3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)" width="40px">, I'm Stefanos</h1>
+<h1 align="center"><img src="https://media1.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif?cid=6c09b952px5qwmz9pe9jl8w19caek28w9fa6mzrmc7e3fjy3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="40px">, I'm Stefanos</h1>
 
 ![logo](https://github.com/Stefanos-katsivelos/Stefanos-katsivelos/blob/main/github-header-image%20(1).png)
 
