@@ -1,7 +1,7 @@
 ![logo](https://github.com/Stefanos-katsivelos/Stefanos-katsivelos/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Stefanos</h1>
 <h2 align="center">A passionate Full stack developer from Greece</h2>
-</br>
+
  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanos-katsivelos" alt="stefanos-katsivelos" /></a></p>
     
  <img align="right" alt="coding" width= "300" height="250" src ="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
@@ -60,8 +60,7 @@
  height="30" width="40" /></a>
  <a href="https://discord.gg/#4056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4056" height="40" width="40" /></a>
 </p>
----
- </br>
+
 
 <div>
  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=stefanos-katsivelos&show_icons=true&locale=en" alt="stefanos-katsivelos" /></p>
